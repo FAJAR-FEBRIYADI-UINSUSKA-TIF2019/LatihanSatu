@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FajarFebriyadi4B</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="hitung">Hitung</string>
+    <string name="nama_barang">Nama Barang :</string>
+    <string name="harga_barang">Harga Barang :</string>
+    <string name="total_harga">Total Harga :</string>
+    <string name="diskon">Diskon :</string>
+    <string name="jumlah_bayar">Jumlah Bayar :</string>
+    <string name="judul">Fajar Kasir Smartphone</string>
+    <string name="close">Close</string>
+    <string name="reset">Reset</string>
+    <string name="welcome">Selamat Datang Fajar Febriyadi 4B</string>
+    <string name="silahkan">Silahkan Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="copyright">Created 2021 Fajar Febriyadi 4B. All rights reserved.</string>
+    <string name="copyrightlogin">Created 2021 Fajar Febriyadi 4B. All rights reserved.</string>
+    <string name="forget_password">Forget Password !</string>
+    <string name="create_a_new_account">Create a New Account ?</string>
+</resources>
